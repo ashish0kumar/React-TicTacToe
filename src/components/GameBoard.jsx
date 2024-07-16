@@ -14,6 +14,9 @@ export default function GameBoard({ onSelectSquare, turns }) {
         gameBoard[row][col] = player;
     }
 
+    
+    // * ----- Avoiding unecessary state management -----
+    
     // const [gameBoard, setGameBoard] = useState(initialGameBoard);
 
     // function handleSelectSquare(rowIndex, colIndex) {
