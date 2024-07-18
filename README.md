@@ -1,2 +1,2 @@
 # React-TicTacToe
-Tic-Tac-Toe game built using React.
+Tic-Tac-Toe Game built using React.
